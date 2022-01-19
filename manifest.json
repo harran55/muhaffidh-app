@@ -1,0 +1,15 @@
+{
+  "name": "المصحف المحفظ",
+  "short_name": "المصحف المحفظ",
+  "description": "مصحف يعين على حفظ القرآن ومراجعته",
+  "lang": "ar",
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#fff1dc",
+  "background_color": "#fff1dc",
+  "icons": [{
+      "src": "app.png",
+      "sizes": "500x500",
+      "type": "image/png"
+  }]
+}
